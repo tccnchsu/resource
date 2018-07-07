@@ -5,6 +5,19 @@ Save and Restore
 https://www.tensorflow.org/programmers_guide/saved_model
 
 
+save_restore_model.py
+https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/4_Utils/save_restore_model.py
+
+In this Tensorflow tutorial, I shall explain:
+
+How does a Tensorflow model look like?
+How to save a Tensorflow model?
+How to restore a Tensorflow model for prediction/transfer learning?
+How to work with imported pretrained models for fine-tuning and modification
+
+http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-complete-tutorial/
+
+
 # resource
 
 
