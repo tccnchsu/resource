@@ -1,4 +1,14 @@
+Checkpoints
+https://www.tensorflow.org/get_started/checkpoints
+
+Save and Restore
+https://www.tensorflow.org/programmers_guide/saved_model
+
+
 # resource
+
+
+
 
 https://github.com/tensorflow/models/tree/master/research/slim
 
